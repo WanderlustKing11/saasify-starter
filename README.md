@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Saasify-Starter
+
+A scalable SaaS application template built with Next.js, designed to learn best practices for building and expanding revenue-generating web services.
+
+---
+
+## Tech Stack
+
+- **Next.js**: Web framework with support for PostCSS, Tailwind CSS, ESLint, and a `src` directory structure.
+- **Styling**: Shadcn and Tailwind UI for CSS and component design.
+- **Payments**: Stripe for handling billing, payments, and SaaS integrations.
+- **Authentication**: Clerk for secure user authentication.
+- **Database**: Neon with PostgreSQL, using Drizzle as the ORM.
+
+## Project Status
+
+This project is currently a work-in-progress. The goal is to create a flexible SaaS template that can be adapted for future large-scale applications.
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+To get started, clone the repository and follow the setup instructions (coming soon) to launch the application locally.
